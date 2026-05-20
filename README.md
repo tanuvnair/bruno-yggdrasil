@@ -6,15 +6,6 @@ This repository acts as a single source of truth, organizing different developme
 
 ---
 
-## 🌌 Repository Architecture
-
-Like the mythical world tree, this repository branches into distinct realms using a monorepo pattern:
-
-*   **`personal/`** *(The Realm of Midgard)* – Dedicated to private side projects, personal utilities, and experimental API exploration.
-*   **`algorisys/`** *(The Realm of Asgard)* – Dedicated to enterprise microservices, client integration endpoints, and internal production tools for Algorisys.
-
----
-
 ## 🚀 Local Workspace Setup
 
 Because Bruno treats collections as standard text directories, you do not need to create premium cloud workspaces. Everything runs seamlessly in Bruno's default local workspace.
